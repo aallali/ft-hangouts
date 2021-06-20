@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ft_hangouts</string>
+    <string name="green">Grün</string>
+    <string name="blue">Blau</string>
+    <string name="red">rot</string>
+    <string name="save">speichern</string>
+    <string name="add_contact">Kontakt hinzufügen</string>
+    <string name="name">Name</string>
+    <string name="phone">Telefon</string>
+    <string name="email">Email</string>
+    <string name="delete">löschen</string>
+    <string name="message">Botschaft</string>
+    <string name="call">Anruf</string>
+    <string name="postal_code">Postleitzahl</string>
+    <string name="street">"Adresse "</string>
+</resources>

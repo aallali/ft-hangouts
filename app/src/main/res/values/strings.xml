@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ft_hangouts</string>
+    <string name="green">green</string>
+    <string name="blue">blue</string>
+    <string name="red">red</string>
+    <string name="save">Save</string>
+    <string name="add_contact">add contact</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="email">email</string>
+    <string name="delete">delete</string>
+    <string name="message">message</string>
+    <string name="call">call</string>
+    <string name="postal_code">postal code</string>
+    <string name="street">street addresse</string>
+</resources>

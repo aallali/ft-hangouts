@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ft_hangouts</string>
+    <string name="green">yeşil</string>
+    <string name="blue">mavi</string>
+    <string name="red">kırmızı</string>
+    <string name="save">Kayıt etmek</string>
+    <string name="add_contact">kişi ekle</string>
+    <string name="name">isim</string>
+    <string name="phone">Telefon</string>
+    <string name="email">e-posta</string>
+    <string name="delete">silmek</string>
+    <string name="message">İleti</string>
+    <string name="call">aramak</string>
+    <string name="postal_code">posta kodu</string>
+    <string name="street">"Sokak adresi "</string>
+</resources>
