@@ -33,16 +33,16 @@ Read More : [Subject](https://github.com/aallali/42-ft-hangouts/blob/main/en.sub
 
 ### Home page / Toolbar menu (change color from iptions):
 
-<img src="https://raw.githubusercontent.com/aallali/42-ft-hangouts/main/docs/home-normal.png" alt="drawing" style="width:300px;"/> \_ <img src="https://raw.githubusercontent.com/aallali/42-ft-hangouts/main/docs/home-menuOpen-vlue-toolbar.png" alt="drawing" style="width:300px;"/>
+<img src="https://raw.githubusercontent.com/aallali/42-ft-hangouts/main/docs/home-normal.png" alt="drawing" width="300"/> \_ <img src="https://raw.githubusercontent.com/aallali/42-ft-hangouts/main/docs/home-menuOpen-vlue-toolbar.png" alt="drawing" width="300"/>
 
 ### Creat new contact / Update Contact Details :
 
-<img src="https://raw.githubusercontent.com/aallali/42-ft-hangouts/main/docs/new-contact.png" alt="drawing" style="width:300px;"/> \_ <img src="https://raw.githubusercontent.com/aallali/42-ft-hangouts/main/docs/editContact.png" alt="drawing" style="width:300px;"/>
+<img src="https://raw.githubusercontent.com/aallali/42-ft-hangouts/main/docs/new-contact.png" alt="drawing" width="300"/> \_ <img src="https://raw.githubusercontent.com/aallali/42-ft-hangouts/main/docs/editContact.png" alt="drawing" width="300"/>
 
 ### When "Call"/"Message" clicked :
 
-<img src="https://raw.githubusercontent.com/aallali/42-ft-hangouts/main/docs/call.png" alt="drawing" style="width:300px;"/>\_<img src="https://raw.githubusercontent.com/aallali/42-ft-hangouts/main/docs/msg.png" alt="drawing" style="width:300px;"/>
+<img src="https://raw.githubusercontent.com/aallali/42-ft-hangouts/main/docs/call.png" alt="drawing" width="300"/>\_<img src="https://raw.githubusercontent.com/aallali/42-ft-hangouts/main/docs/msg.png" alt="drawing" width="300"/>
 
 ### Languages (support up to 6 language : ko,tr,de,fr,en,es):
 
-<img src="https://raw.githubusercontent.com/aallali/42-ft-hangouts/main/docs/ko-lang.png" alt="drawing" style="width:300px;"/> \_ <img src="https://raw.githubusercontent.com/aallali/42-ft-hangouts/main/docs/tr-lang.png" alt="drawing" style="width:300px;"/>
+<img src="https://raw.githubusercontent.com/aallali/42-ft-hangouts/main/docs/ko-lang.png" alt="drawing" width="300"/> \_ <img src="https://raw.githubusercontent.com/aallali/42-ft-hangouts/main/docs/tr-lang.png" alt="drawing" width="300"/>
