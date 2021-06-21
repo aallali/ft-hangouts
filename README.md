@@ -33,7 +33,7 @@ Read More : [Subject](https://github.com/aallali/42-ft-hangouts/blob/main/en.sub
 
 ### Home page / Toolbar menu (change color from iptions):
 
-<img src="https://raw.githubusercontent.com/aallali/42-ft-hangouts/main/docs/home-normal.png" alt="drawing" style="width:300px;"/> \_ <img src="https://raw.githubusercontent.com/aallali/42-ft-hangouts/main/docs/home-menuOpen-vlue-toolbar.png" alt="drawing" style="width:300px;"/>
+<img src="https://raw.githubusercontent.com/aallali/42-ft-hangouts/main/docs/home-normal.png" alt="drawing" style="width:100px;"/> \_ <img src="https://raw.githubusercontent.com/aallali/42-ft-hangouts/main/docs/home-menuOpen-vlue-toolbar.png" alt="drawing" style="width:300px;"/>
 
 ### Creat new contact / Update Contact Details :
 
